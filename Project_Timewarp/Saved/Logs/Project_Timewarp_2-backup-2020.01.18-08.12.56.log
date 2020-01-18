@@ -1,0 +1,915 @@
+﻿Log file open, 06/26/19 09:24:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Project_Timewarp
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.199843
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.360s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.26-13.24.20:406][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.26-13.24.20:437][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.26-13.24.20:526][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.26-13.24.20:536][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.26-13.24.20:536][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.26-13.24.20:616][  0]LogInit: Computer: LAPTOP-DBNDM4GI
+[2019.06.26-13.24.20:616][  0]LogInit: User: elija
+[2019.06.26-13.24.20:616][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.26-13.24.20:616][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.26-13.24.20:617][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.26-13.24.20:617][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.26-13.24.20:617][  0]LogMemory: Process Physical Memory: 101.63 MB used, 101.64 MB peak
+[2019.06.26-13.24.20:617][  0]LogMemory: Process Virtual Memory: 89.25 MB used, 89.25 MB peak
+[2019.06.26-13.24.20:617][  0]LogMemory: Physical Memory: 9133.71 MB used,  7133.89 MB free, 16267.60 MB total
+[2019.06.26-13.24.20:617][  0]LogMemory: Virtual Memory: 4612.47 MB used,  7133.89 MB free, 134217728.00 MB total
+[2019.06.26-13.24.22:386][  0]LogInit: Using OS detected language (en-US).
+[2019.06.26-13.24.22:386][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.26-13.24.22:451][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.26-13.24.24:081][  0]LogStreaming: Display: Took  1.703s to InitEngineTextLocalization.
+[2019.06.26-13.24.24:115][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.26-13.24.24:469][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.26-13.24.24:469][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.26-13.24.25:776][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.26-13.24.25:784][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.26-13.24.25:874][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.06.26-13.24.25:874][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.26-13.24.25:887][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.06.26-13.24.25:887][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.26-13.24.25:890][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.26-13.24.25:891][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.26-13.24.25:891][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.26-13.24.25:950][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.26-13.24.25:950][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.26-13.24.25:950][  0]LogWindows: EnumDisplayDevices:
+[2019.06.26-13.24.25:950][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.06.26-13.24.25:951][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.26-13.24.25:951][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.26-13.24.25:952][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.06.26-13.24.25:952][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.06.26-13.24.25:952][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.06.26-13.24.25:952][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.06.26-13.24.25:952][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.06.26-13.24.25:952][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.06.26-13.24.26:037][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.26-13.24.26:115][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.26-13.24.26:253][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Intermediate/Shaders/WorkingDirectory/27708/).
+[2019.06.26-13.24.26:254][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/elija/AppData/Local/Temp/UnrealShaderWorkingDir/5A5638D6494F8F86C95B6BBE6B577065/'.
+[2019.06.26-13.24.26:808][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.26-13.24.26:827][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.26-13.24.26:848][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.26-13.24.26:866][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.26-13.24.26:889][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.26-13.24.26:907][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.26-13.24.26:926][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.26-13.24.26:946][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.26-13.24.26:955][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-13.24.27:060][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.26-13.24.27:139][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.26-13.24.27:139][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.26-13.24.27:172][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.26-13.24.27:172][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.26-13.24.27:189][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.26-13.24.27:206][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.26-13.24.27:224][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.26-13.24.27:244][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.26-13.24.27:256][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.26-13.24.27:256][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.26-13.24.27:422][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.26-13.24.27:422][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.26-13.24.27:422][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.26-13.24.28:952][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.26-13.24.30:071][  0]LogDerivedDataCache: Loaded boot cache 1.12s 88MB C:/Users/elija/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.26-13.24.30:071][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/elija/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.26-13.24.30:071][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Personal Projects/Project_Timewarp/Project_Timewarp/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.26-13.24.30:071][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.26-13.24.30:071][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Personal Projects/Project_Timewarp/Project_Timewarp/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.26-13.24.30:071][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.26-13.24.30:092][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.26-13.24.30:105][  0]LogDerivedDataCache: Using Local data cache path C:/Users/elija/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.26-13.24.30:105][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.26-13.24.30:105][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.26-13.24.30:129][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.26-13.24.30:147][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.26-13.24.30:152][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.26-13.24.30:538][  0]LogAssetRegistry: FAssetRegistry took 0.0324 seconds to start up
+[2019.06.26-13.24.32:516][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.26-13.24.32:746][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.26-13.24.32:808][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.26-13.24.32:808][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.26-13.24.32:809][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.26-13.24.32:809][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.26-13.24.33:109][  0]LogNetVersion: Project_Timewarp 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 318606204)
+[2019.06.26-13.24.34:741][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.145517 seconds
+[2019.06.26-13.24.34:749][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.26-13.24.34:749][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.06.26-13.24.34:749][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.26-13.24.38:187][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.26-13.24.38:216][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.26-13.24.38:553][  0]SourceControl: Source control is disabled
+[2019.06.26-13.24.38:554][  0]SourceControl: Source control is disabled
+[2019.06.26-13.24.38:560][  0]SourceControl: Source control is disabled
+[2019.06.26-13.24.38:563][  0]SourceControl: Source control is disabled
+[2019.06.26-13.24.38:937][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.26-13.24.39:133][  0]LogOcInput: OculusInput pre-init called
+[2019.06.26-13.24.39:440][  0]LogEngine: Initializing Engine...
+[2019.06.26-13.24.39:455][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.26-13.24.39:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.26-13.24.39:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.26-13.24.39:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.06.26-13.24.39:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.26-13.24.39:778][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.26-13.24.39:916][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.26-13.24.40:003][  0]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-13.24.40:037][  0]LogInit: FAudioDevice initialized.
+[2019.06.26-13.24.40:037][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.26-13.24.40:261][  0]LogDerivedDataCache: Saved boot cache 0.22s 88MB C:/Users/elija/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.26-13.24.40:268][  0]LogInit: Texture streaming: Enabled
+[2019.06.26-13.24.40:332][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.26-13.24.40:376][  0]LogInit: Transaction tracking system initialized
+[2019.06.26-13.24.40:507][  0]BlueprintLog: New page: Editor Load
+[2019.06.26-13.24.40:838][  0]LocalizationService: Localization service is disabled
+[2019.06.26-13.24.41:465][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.26-13.24.41:465][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.26-13.24.41:478][  0]LogFileCache: Scanning file cache for directory 'D:/Personal Projects/Project_Timewarp/Project_Timewarp/Content/' took 0.02s
+[2019.06.26-13.24.41:478][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.26-13.24.41:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.26-13.24.41:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.26-13.24.41:479][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.26-13.24.41:479][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.26-13.24.41:845][  0]SourceControl: Source control is disabled
+[2019.06.26-13.24.41:845][  0]Cmd: MAP LOAD FILE="../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.26-13.24.41:848][  0]LightingResults: New page: Lighting Build
+[2019.06.26-13.24.41:886][  0]MapCheck: New page: Map Check
+[2019.06.26-13.24.41:886][  0]LightingResults: New page: Lighting Build
+[2019.06.26-13.24.43:299][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-13.24.43:406][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.26-13.24.43:472][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.26-13.24.43:585][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.832ms to complete.
+[2019.06.26-13.24.43:585][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.740
+[2019.06.26-13.24.45:538][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.26-13.24.45:682][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ProjectTimewarp
+[2019.06.26-13.24.45:682][  0]LogTemp: CWD: D:\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.06.26-13.24.45:682][  0]LogTemp: Initial Dir: D:\UE_4.20
+[2019.06.26-13.24.45:682][  0]LogTemp: Env CWD: D:\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.06.26-13.24.45:682][  0]LogTemp: BranchPath = LAPTOP-DBNDM4GI/D/UE_4.20/Engine/Binaries --- GameBranchPath = LAPTOP-DBNDM4GI/D/UE_4.20/Engine/Binaries
+[2019.06.26-13.24.45:682][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\elija\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.06.26-13.24.45:682][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.24.45:736][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.24.45:744][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.24.45:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.24.45:915][  0]LogCollectionManager: Loaded 0 collections in 0.002271 seconds
+[2019.06.26-13.24.45:999][  0]LogFileCache: Scanning file cache for directory 'D:/Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Collections/' took 0.01s
+[2019.06.26-13.24.45:999][  0]LogFileCache: Scanning file cache for directory 'D:/Personal Projects/Project_Timewarp/Project_Timewarp/Content/Developers/elija/Collections/' took 0.01s
+[2019.06.26-13.24.45:999][  0]LogFileCache: Scanning file cache for directory 'D:/Personal Projects/Project_Timewarp/Project_Timewarp/Content/Collections/' took 0.01s
+[2019.06.26-13.24.45:999][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.26-13.24.46:024][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2573 classes and 605 folders.
+[2019.06.26-13.24.46:049][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.26-13.24.47:044][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.26-13.24.47:097][  0]LogSlate: Took 0.011389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.26-13.24.47:125][  0]LogSlate: Took 0.013449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.26-13.24.47:156][  0]LogSlate: Took 0.014023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.26-13.24.47:382][  0]LogRenderer: Reallocating scene render targets to support 816x436 Format 10 NumSamples 1 (Frame:1).
+[2019.06.26-13.24.47:761][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.26-13.24.47:762][  0]LogLoad: (Engine Initialization) Total time: 60.58 seconds
+[2019.06.26-13.24.47:762][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.26-13.24.47:839][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.26-13.24.47:922][  0]LogRenderer: Reallocating scene render targets to support 816x456 Format 10 NumSamples 1 (Frame:3).
+[2019.06.26-13.24.47:973][  0]LogSlate: Took 0.007203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.26-13.24.48:047][  1]LogAssetRegistry: Asset discovery search completed in 17.5318 seconds
+[2019.06.26-13.24.48:050][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.26-13.24.48:050][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000134 seconds (updated 0 objects)
+[2019.06.26-13.24.49:343][  5]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.26-13.25.56:626][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-13.25.58:892][756]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/TopDownBP/Character/Animations/IdleWalkBackRunBack.IdleWalkBackRunBack
+[2019.06.26-13.25.58:983][756]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.06.26-13.25.59:534][756]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-13.25.59:539][756]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.06.26-13.25.59:721][756]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-13.26.00:432][756]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.06.26-13.26.00:475][756]LogRenderer: Reallocating scene render targets to support 912x456 Format 10 NumSamples 1 (Frame:1).
+[2019.06.26-13.26.00:475][756]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.26-13.28.40:720][872]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.06.26-13.28.48:794][757]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/TopDownBP/Character/Animations/IdleWalkRun2.IdleWalkRun2
+[2019.06.26-13.29.10:910][224]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/TopDownBP/Character/Animations/ABP_Liara.ABP_Liara
+[2019.06.26-13.29.10:980][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-13.29.12:169][224]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2019.06.26-13.29.13:174][224]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-13.29.13:537][224]LogSlate: Took 0.013869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.26-13.29.13:692][224]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.26-13.29.58:396][ 74]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/TopDownBP/Character/Animations/ABP_Liara.ABP_Liara
+[2019.06.26-13.29.58:423][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-13.29.58:992][ 74]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-13.29.59:677][ 74]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.26-13.30.06:171][519]LogSlate: Took 0.130226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.26-13.33.19:007][885]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest
+[2019.06.26-13.33.19:029][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-13.33.19:349][885]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-13.33.19:816][885]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.26-13.33.24:699][119]LogSlate: Window 'ABP_LiaraTest' being destroyed
+[2019.06.26-13.34.40:167][448]LogRenderer: Reallocating scene render targets to support 1140x524 Format 10 NumSamples 1 (Frame:23301).
+[2019.06.26-13.34.46:309][156]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest
+[2019.06.26-13.34.46:328][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-13.34.46:608][156]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-13.34.47:005][156]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.26-13.35.08:162][586]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.35.12:326][  9]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.35.12:354][  9]LogBlueprint: Warning: [Compiler ABP_LiaraTest] IdleWalkRun2 to IdleWalkBackRunBack  will never be taken, please connect something to  Can Enter Transition
+[2019.06.26-13.35.12:354][  9]LogBlueprint: Warning: [Compiler ABP_LiaraTest] IdleWalkBackRunBack to IdleWalkRun2  will never be taken, please connect something to  Can Enter Transition
+[2019.06.26-13.35.12:504][  9]LogBlueprint: Warning: [Compiler ABP_LiaraTest] [0685.32] Compile of ABP_LiaraTest successful, but with 2 Warning(s) [in 179 ms] (/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest)
+[2019.06.26-13.35.30:382][ 65]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.35.30:392][ 65]LogBlueprint: Warning: [Compiler ABP_LiaraTest] IdleWalkRun2 to IdleWalkBackRunBack  will never be taken, please connect something to  Can Enter Transition
+[2019.06.26-13.35.30:541][ 65]LogBlueprint: Warning: [Compiler ABP_LiaraTest] [0703.36] Compile of ABP_LiaraTest successful, but with 1 Warning(s) [in 158 ms] (/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest)
+[2019.06.26-13.35.31:259][105]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest7D8A37264BF9197E29CC16AE21F26ADE.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.35.38:466][921]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.35.39:262][961]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTestAEFE7A5546DAB93EF08D8B94B6A21CEC.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.36.12:249][743]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.36.12:932][761]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest780E78614127DC09448952BBAE6D6A69.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.36.29:185][494]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.36.30:041][545]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest8332C6254CF4B20102D082970FF1C920.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.38.04:224][875]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.38.04:984][922]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest69D883574EFD2CBCC121499821B67059.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.38.21:010][793]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.38.21:774][830]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest2C10CE01435B72B5E1B983BB847D4CDA.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.38.59:576][919]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.39.00:401][969]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest71E7FE0E448D2FC0FD1AE2A6B6E4F082.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.39.51:166][510]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2019.06.26-13.39.56:832][985]BlueprintLog: New page: Compile TopDownCharacter
+[2019.06.26-13.39.57:659][ 16]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacterCF4CE14F43EC9C7E1F17B1900FA660F2.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.39.57:660][ 16]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset', retrying in .5s...
+[2019.06.26-13.39.58:162][ 16]LogFileManager: Error: Error deleting file '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'.
+[2019.06.26-13.39.58:162][ 16]LogSavePackage: Error: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.40.02:700][ 16]LogSlate: Window 'Message' being destroyed
+[2019.06.26-13.40.02:711][ 16]EditorErrors: New page: Save Output
+[2019.06.26-13.40.02:711][ 16]EditorErrors: Warning: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.40.03:698][ 16]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.06.26-13.40.04:929][155]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-13.40.04:934][155]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-13.40.08:895][536]BlueprintLog: New page: Compile TopDownCharacter
+[2019.06.26-13.40.09:750][569]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacter20B891A84DA671FCE2FCCF83D1314D53.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.40.09:752][569]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset', retrying in .5s...
+[2019.06.26-13.40.10:252][569]LogFileManager: Error: Error deleting file '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'.
+[2019.06.26-13.40.10:252][569]LogSavePackage: Error: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.40.13:904][569]LogSlate: Window 'Message' being destroyed
+[2019.06.26-13.40.13:916][569]EditorErrors: New page: Save Output
+[2019.06.26-13.40.13:916][569]EditorErrors: Warning: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.40.15:842][569]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.06.26-13.40.20:037][927]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-13.40.20:045][927]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-13.40.25:025][175]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-13.40.25:060][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.40.25:060][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-13.40.25:092][175]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 5:40:25 AM)
+[2019.06.26-13.40.25:093][175]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-13.40.25:115][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022515s)
+[2019.06.26-13.40.25:116][175]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-13.40.25:116][175]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2019.06.26-13.40.25:116][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023994s)
+[2019.06.26-13.40.25:219][175]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-13.40.25:240][175]LogInit: FAudioDevice initialized.
+[2019.06.26-13.40.25:288][175]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-13.40.25:292][175]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.06.26-09.40.25
+[2019.06.26-13.40.25:313][175]LogWorld: Bringing up level for play took: 0.023457
+[2019.06.26-13.40.25:363][175]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2019.06.26-13.40.25:459][175]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.716
+[2019.06.26-13.40.25:459][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.40.31:512][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.40.31:512][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.40.31:553][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-13.40.31:553][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.40.31:590][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.40.31:667][841]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.06.26-13.40.32:847][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-13.41.07:420][569]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.41.07:440][569]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "WalkBack?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set WalkBack?
+[2019.06.26-13.41.07:440][569]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "IsFiring?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set IsFiring?
+[2019.06.26-13.41.07:440][569]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "IsInAir?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set IsInAir?
+[2019.06.26-13.41.07:440][569]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "Speed" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set Speed
+[2019.06.26-13.41.07:442][569]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "WalkBack?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set WalkBack?
+[2019.06.26-13.41.07:442][569]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "IsFiring?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set IsFiring?
+[2019.06.26-13.41.07:442][569]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "IsInAir?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set IsInAir?
+[2019.06.26-13.41.07:443][569]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "Speed" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set Speed
+[2019.06.26-13.41.07:443][569]LogBlueprint: Error: [Compiler ABP_LiaraTest] The property associated with  Walk Back?  could not be found in '/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest_C'
+[2019.06.26-13.41.07:443][569]LogBlueprint: Error: [Compiler ABP_LiaraTest] The property associated with  Is Firing?  could not be found in '/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest_C'
+[2019.06.26-13.41.07:443][569]LogBlueprint: Error: [Compiler ABP_LiaraTest] The property associated with  Speed  could not be found in '/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest_C'
+[2019.06.26-13.41.07:443][569]LogBlueprint: Error: [Compiler ABP_LiaraTest] The property associated with  Is in Air?  could not be found in '/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest_C'
+[2019.06.26-13.41.07:594][569]LogBlueprint: Warning: [Compiler ABP_LiaraTest] [1040.41] Compile of ABP_LiaraTest failed. 4 Fatal Issue(s) 8 Warning(s) [in 174 ms] (/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest)
+[2019.06.26-13.41.08:683][664]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTestB9AB9D6D40B3460ED9F067B3D2AAEF2D.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.41.24:689][399]LogSlate: Took 0.010729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.26-13.41.27:030][489]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.06.26-13.41.28:663][614]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.06.26-13.41.28:670][614]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.06.26-13.41.29:874][729]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.41.29:894][729]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "WalkBack?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set WalkBack?
+[2019.06.26-13.41.29:894][729]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "IsFiring?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set IsFiring?
+[2019.06.26-13.41.29:896][729]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "WalkBack?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set WalkBack?
+[2019.06.26-13.41.29:896][729]LogBlueprint: Warning: [Compiler ABP_LiaraTest] Could not find a variable named "IsFiring?" in 'ABP_LiaraTest_C'.
+Make sure 'ABP_LiaraTest_C' has been compiled for  Set IsFiring?
+[2019.06.26-13.41.29:897][729]LogBlueprint: Error: [Compiler ABP_LiaraTest] The property associated with  Walk Back?  could not be found in '/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest_C'
+[2019.06.26-13.41.29:897][729]LogBlueprint: Error: [Compiler ABP_LiaraTest] The property associated with  Is Firing?  could not be found in '/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest_C'
+[2019.06.26-13.41.30:058][729]LogBlueprint: Warning: [Compiler ABP_LiaraTest] [1062.88] Compile of ABP_LiaraTest failed. 2 Fatal Issue(s) 4 Warning(s) [in 184 ms] (/Game/TopDownBP/Character/Animations/ABP_LiaraTest.ABP_LiaraTest)
+[2019.06.26-13.41.31:197][834]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest6240DF2E4F88E4F8F214F4A3C3D4FA8F.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.41.53:921][311]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.41.54:780][359]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest4230EE554491F4BA8C26C7A2345B8665.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.42.09:645][983]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.42.10:863][ 77]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTestE42E0E9147F36506361B6D9C4D4C8686.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.42.29:218][101]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.42.29:943][138]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest53766BF849A426E5768797B8E1884EEA.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.42.32:451][407]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-13.42.32:468][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.42.32:468][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-13.42.32:468][407]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 5:42:32 AM)
+[2019.06.26-13.42.32:468][407]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-13.42.32:483][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014556s)
+[2019.06.26-13.42.32:484][407]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-13.42.32:484][407]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2019.06.26-13.42.32:484][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015816s)
+[2019.06.26-13.42.32:568][407]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-13.42.32:582][407]LogInit: FAudioDevice initialized.
+[2019.06.26-13.42.32:616][407]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-13.42.32:621][407]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.06.26-09.42.32
+[2019.06.26-13.42.32:622][407]LogWorld: Bringing up level for play took: 0.004737
+[2019.06.26-13.42.32:635][407]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.107
+[2019.06.26-13.42.32:636][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.42.36:911][909]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.42.36:912][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.42.36:965][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-13.42.36:965][909]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.42.36:997][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.42.37:013][910]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.06.26-13.42.38:024][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-13.43.13:259][137]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownExampleMap_Auto127F3EA1B4A8153AC5581719425894E23.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2019.06.26-13.43.13:275][137]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.331
+[2019.06.26-13.43.13:275][137]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.331
+[2019.06.26-13.43.13:280][137]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2019.06.26-13.43.13:280][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2019.06.26-13.43.13:335][137]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacter_Auto1D3443C8941E12B39EAFE6992D823F8D5.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset'
+[2019.06.26-13.43.13:353][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Animations/IdleWalkBackRunBack] ([1] browsable assets)...
+[2019.06.26-13.43.13:386][137]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/TopDownBP/Character/Animations/IdleWalkBackRunBack.IdleWalkBackRunBack]
+[2019.06.26-13.43.13:386][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Animations/IdleWalkBackRunBack]
+[2019.06.26-13.43.13:421][137]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/IdleWalkBackRunBack_Auto1FCB3ACF547608BB431CBD090A1E5FECD.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Character/Animations/IdleWalkBackRunBack_Auto1.uasset'
+[2019.06.26-13.43.13:442][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Animations/IdleWalkRun2] ([1] browsable assets)...
+[2019.06.26-13.43.13:472][137]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/TopDownBP/Character/Animations/IdleWalkRun2.IdleWalkRun2]
+[2019.06.26-13.43.13:472][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Animations/IdleWalkRun2]
+[2019.06.26-13.43.13:491][137]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/IdleWalkRun2_Auto18B1EEA4A4075F20C60D755A9D30EC6C1.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Character/Animations/IdleWalkRun2_Auto1.uasset'
+[2019.06.26-13.43.13:494][137]LogFileHelpers: Auto-saving content packages took 0.217
+[2019.06.26-13.48.18:086][466]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/TopDownBP/Character/Animations/IdleWalkRun.IdleWalkRun
+[2019.06.26-13.48.55:306][694]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-13.48.55:325][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.48.55:325][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-13.48.55:325][694]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 5:48:55 AM)
+[2019.06.26-13.48.55:325][694]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-13.48.55:341][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015817s)
+[2019.06.26-13.48.55:341][694]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-13.48.55:342][694]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2019.06.26-13.48.55:342][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016896s)
+[2019.06.26-13.48.55:433][694]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-13.48.55:446][694]LogInit: FAudioDevice initialized.
+[2019.06.26-13.48.55:480][694]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-13.48.55:484][694]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.06.26-09.48.55
+[2019.06.26-13.48.55:484][694]LogWorld: Bringing up level for play took: 0.003001
+[2019.06.26-13.48.55:497][694]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.755
+[2019.06.26-13.48.55:498][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.49.00:737][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.49.00:737][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.49.00:776][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-13.49.00:776][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.49.00:811][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.49.00:889][300]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.06.26-13.49.01:462][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-13.49.01:540][373]LogRenderer: Reallocating scene render targets to support 1140x568 Format 10 NumSamples 1 (Frame:24).
+[2019.06.26-13.50.35:207][553]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Mannequin/Animations/Attack_AnimMontage.Attack_AnimMontage
+[2019.06.26-13.53.03:531][289]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-13.53.03:549][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.53.03:549][289]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.26-13.53.03:560][289]LogPlayLevel: [PlayLevel] Compiling ABP_LiaraTest before play...
+[2019.06.26-13.53.03:746][289]LogPlayLevel: PlayLevel: Blueprint regeneration took 197 ms (1 blueprints)
+[2019.06.26-13.53.03:746][289]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 5:53:03 AM)
+[2019.06.26-13.53.03:746][289]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-13.53.03:760][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014348s)
+[2019.06.26-13.53.03:761][289]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-13.53.03:761][289]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2019.06.26-13.53.03:761][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015482s)
+[2019.06.26-13.53.03:851][289]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-13.53.03:866][289]LogInit: FAudioDevice initialized.
+[2019.06.26-13.53.03:902][289]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-13.53.03:907][289]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.06.26-09.53.03
+[2019.06.26-13.53.03:908][289]LogWorld: Bringing up level for play took: 0.004474
+[2019.06.26-13.53.03:922][289]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.179
+[2019.06.26-13.53.03:922][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.53.13:300][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.53.13:301][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.53.13:352][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-13.53.13:352][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.53.13:387][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.53.13:404][385]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.06.26-13.53.15:009][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-13.53.17:196][780]BlueprintLog: New page: Compile TopDownCharacter
+[2019.06.26-13.53.18:259][831]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacterA7B17FBE46AA6402FEA81182C75A9F3C.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.53.18:261][831]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset', retrying in .5s...
+[2019.06.26-13.53.18:762][831]LogFileManager: Error: Error deleting file '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'.
+[2019.06.26-13.53.18:762][831]LogSavePackage: Error: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.53.21:526][831]LogSlate: Window 'Message' being destroyed
+[2019.06.26-13.53.21:594][831]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacter1D9BE42C47D40F5D4606FA8008D61416.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.53.21:595][831]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset', retrying in .5s...
+[2019.06.26-13.53.22:096][831]LogFileManager: Error: Error deleting file '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'.
+[2019.06.26-13.53.22:096][831]LogSavePackage: Error: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.53.22:815][831]LogSlate: Window 'Message' being destroyed
+[2019.06.26-13.53.24:845][831]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacter1CFDF7FE4763FA9476B788B323FA0D7C.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.53.24:846][831]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset', retrying in .5s...
+[2019.06.26-13.53.25:347][831]LogFileManager: Error: Error deleting file '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'.
+[2019.06.26-13.53.25:347][831]LogSavePackage: Error: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.53.28:905][831]LogSlate: Window 'Message' being destroyed
+[2019.06.26-13.53.28:914][831]EditorErrors: New page: Save Output
+[2019.06.26-13.53.28:915][831]EditorErrors: Warning: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.53.28:915][831]EditorErrors: Warning: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.53.28:915][831]EditorErrors: Warning: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.53.30:650][831]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.06.26-13.53.32:448][  8]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-13.53.32:456][  8]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-13.54.21:934][671]BlueprintLog: New page: Compile ABP_LiaraTest
+[2019.06.26-13.54.23:031][741]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest26515513436E643D4ADA048F52715F8B.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest.uasset'
+[2019.06.26-13.54.23:974][829]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-13.54.24:009][829]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.54.24:009][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-13.54.24:009][829]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 5:54:24 AM)
+[2019.06.26-13.54.24:010][829]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-13.54.24:024][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013980s)
+[2019.06.26-13.54.24:024][829]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-13.54.24:025][829]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2019.06.26-13.54.24:025][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015015s)
+[2019.06.26-13.54.24:113][829]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-13.54.24:126][829]LogInit: FAudioDevice initialized.
+[2019.06.26-13.54.24:157][829]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-13.54.24:160][829]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.06.26-09.54.24
+[2019.06.26-13.54.24:160][829]LogWorld: Bringing up level for play took: 0.003095
+[2019.06.26-13.54.24:174][829]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.569
+[2019.06.26-13.54.24:174][829]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.54.28:189][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.54.28:189][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.54.28:231][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-13.54.28:231][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.54.28:265][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.54.28:351][299]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.06.26-13.54.54:198][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-13.54.54:475][ 28]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownExampleMap_Auto2F19DF33A49F0104234F014B091BBA6EB.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2019.06.26-13.54.54:495][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.280
+[2019.06.26-13.54.54:495][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.280
+[2019.06.26-13.54.54:499][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2019.06.26-13.54.54:499][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2019.06.26-13.54.54:562][ 28]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacter_Auto27111E0064EABAC388B186CA949F9CEB9.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto2.uasset'
+[2019.06.26-13.54.54:570][ 28]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Animations/IdleWalkRun2] ([1] browsable assets)...
+[2019.06.26-13.54.54:607][ 28]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/TopDownBP/Character/Animations/IdleWalkRun2.IdleWalkRun2]
+[2019.06.26-13.54.54:607][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Animations/IdleWalkRun2]
+[2019.06.26-13.54.54:626][ 28]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/IdleWalkRun2_Auto27DA1705F4872FE7CF359A98068F919AA.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Character/Animations/IdleWalkRun2_Auto2.uasset'
+[2019.06.26-13.54.54:629][ 28]LogFileHelpers: Auto-saving content packages took 0.133
+[2019.06.26-13.55.17:059][348]LogRenderer: Reallocating scene render targets to support 1140x604 Format 10 NumSamples 1 (Frame:33).
+[2019.06.26-13.57.20:762][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-13.57.20:782][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.57.20:782][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-13.57.20:783][ 59]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 5:57:20 AM)
+[2019.06.26-13.57.20:783][ 59]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-13.57.20:797][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014600s)
+[2019.06.26-13.57.20:798][ 59]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-13.57.20:798][ 59]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2019.06.26-13.57.20:799][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015785s)
+[2019.06.26-13.57.20:909][ 59]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-13.57.20:922][ 59]LogInit: FAudioDevice initialized.
+[2019.06.26-13.57.20:953][ 59]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-13.57.20:957][ 59]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.06.26-09.57.20
+[2019.06.26-13.57.20:957][ 59]LogWorld: Bringing up level for play took: 0.002853
+[2019.06.26-13.57.20:971][ 59]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.228
+[2019.06.26-13.57.20:971][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.57.24:750][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.57.24:751][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.57.24:793][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-13.57.24:793][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.57.24:826][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.57.24:849][285]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.06.26-13.57.25:578][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-13.57.30:300][599]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.26-13.57.32:541][728]BlueprintLog: New page: Compile TopDownCharacter
+[2019.06.26-13.57.33:352][747]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacter32A561FE4DFB5CAA817D74BA849DFDA6.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.57.33:353][747]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset', retrying in .5s...
+[2019.06.26-13.57.33:854][747]LogFileManager: Error: Error deleting file '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'.
+[2019.06.26-13.57.33:854][747]LogSavePackage: Error: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.57.35:501][747]LogSlate: Window 'Message' being destroyed
+[2019.06.26-13.57.35:510][747]EditorErrors: New page: Save Output
+[2019.06.26-13.57.35:510][747]EditorErrors: Warning: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-13.57.37:129][747]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.06.26-13.57.38:518][830]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-13.57.38:525][830]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-13.57.39:135][867]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-13.57.39:172][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.57.39:172][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-13.57.39:172][867]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 5:57:39 AM)
+[2019.06.26-13.57.39:172][867]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-13.57.39:186][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013302s)
+[2019.06.26-13.57.39:186][867]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-13.57.39:187][867]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2019.06.26-13.57.39:187][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014464s)
+[2019.06.26-13.57.39:295][867]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-13.57.39:307][867]LogInit: FAudioDevice initialized.
+[2019.06.26-13.57.39:338][867]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-13.57.39:341][867]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.06.26-09.57.39
+[2019.06.26-13.57.39:342][867]LogWorld: Bringing up level for play took: 0.002911
+[2019.06.26-13.57.39:355][867]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.612
+[2019.06.26-13.57.39:355][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.58.00:263][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.58.00:263][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.58.00:302][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-13.58.00:302][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-13.58.00:336][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-13.58.00:383][122]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.06.26-13.58.12:820][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-13.58.32:488][ 27]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.26-13.58.45:883][ 27]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.06.26-13.59.01:226][941]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/TopDownBP/Character/Animations/ABP_LiaraTest2.ABP_LiaraTest2
+[2019.06.26-13.59.01:249][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-13.59.01:589][941]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-13.59.01:970][941]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.26-14.00.31:925][225]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.00.32:528][246]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest283121172475D0F7BE715A8863AF91D8D.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.00.58:387][782]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.00.58:974][802]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest2F7E50273426E6AB4289E34A08C0890E9.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.01.12:327][578]LogSlate: Window 'ABP_LiaraTest2*' being destroyed
+[2019.06.26-14.05.23:974][322]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/TopDownBP/Character/Animations/IdleWalkBackRunBack.IdleWalkBackRunBack
+[2019.06.26-14.06.32:400][ 40]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.06.26-14.06.40:211][505]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/TopDownBP/Character/Animations/IdleWalkRun3.IdleWalkRun3
+[2019.06.26-14.08.15:259][146]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/IdleWalkRun30BC983FB4E16D89B63A6328096E2E250.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/IdleWalkRun3.uasset'
+[2019.06.26-14.09.47:258][622]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.09.47:909][645]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest28B6404694249EF83D29BA9A2F9662AED.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.10.20:800][603]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.10.21:435][626]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest2982310214104255B4A29ED8A93CDD31C.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.10.55:865][666]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.10.56:471][687]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest28A40213847C1C638CE6229956E25EE00.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.11.02:180][ 28]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.11.02:767][ 48]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest249CD9C7C4C6CFB469FABF29EC588C7B1.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.11.13:332][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-14.11.15:531][693]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.11.16:395][730]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest28DFED48D41E915E85B644BA8591252A1.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.11.53:766][929]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Mannequin/Animations/Attack_AnimMontage.Attack_AnimMontage
+[2019.06.26-14.12.21:950][598]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownExampleMap_Auto3159CE88545F9E6D1431064A2D3A0DC16.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2019.06.26-14.12.21:956][598]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.226
+[2019.06.26-14.12.21:956][598]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.226
+[2019.06.26-14.12.21:960][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2019.06.26-14.12.21:960][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2019.06.26-14.12.22:012][598]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacter_Auto3302C96644A45BDDECF55FCA31C5D60D5.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto3.uasset'
+[2019.06.26-14.12.22:023][598]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Animations/ABP_Liara] ([1] browsable assets)...
+[2019.06.26-14.12.22:036][598]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TopDownBP/Character/Animations/ABP_Liara.ABP_Liara]
+[2019.06.26-14.12.22:036][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Animations/ABP_Liara]
+[2019.06.26-14.12.22:086][598]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_Liara_Auto376BAB4B347FFB61A34CC6287768A3324.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Character/Animations/ABP_Liara_Auto3.uasset'
+[2019.06.26-14.12.22:090][598]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Animations/ABP_LiaraTest2] ([1] browsable assets)...
+[2019.06.26-14.12.22:103][598]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TopDownBP/Character/Animations/ABP_LiaraTest2.ABP_LiaraTest2]
+[2019.06.26-14.12.22:103][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Animations/ABP_LiaraTest2]
+[2019.06.26-14.12.22:149][598]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest2_Auto360FECD194F2C5D7C850305B9C7E861DE.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Character/Animations/ABP_LiaraTest2_Auto3.uasset'
+[2019.06.26-14.12.22:150][598]LogFileHelpers: Auto-saving content packages took 0.193
+[2019.06.26-14.12.37:402][499]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Attack_AnimMontage328F094B4D8526AC63CF0EA5BD73FC74.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/Mannequin/Animations/Attack_AnimMontage.uasset'
+[2019.06.26-14.12.37:403][499]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/Mannequin/Animations/Attack_AnimMontage.uasset', retrying in .5s...
+[2019.06.26-14.12.37:904][499]LogFileManager: Error: Error deleting file '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/Mannequin/Animations/Attack_AnimMontage.uasset'.
+[2019.06.26-14.12.37:904][499]LogSavePackage: Error: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/Mannequin/Animations/Attack_AnimMontage.uasset'
+[2019.06.26-14.12.39:874][499]LogSlate: Window 'Message' being destroyed
+[2019.06.26-14.12.39:884][499]EditorErrors: New page: Save Output
+[2019.06.26-14.12.39:884][499]EditorErrors: Warning: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/Mannequin/Animations/Attack_AnimMontage.uasset'
+[2019.06.26-14.12.40:665][499]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.06.26-14.12.41:789][566]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-14.12.41:795][566]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-14.13.19:950][849]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.13.20:620][874]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest284960F0840BAECAEB8649EB7541A86B0.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.13.40:081][ 16]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.13.40:676][ 36]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest2A677D4664E576F270B2551AA0E4FC21C.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.14.14:718][ 20]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.14.15:370][ 43]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest2206D83E3497D32AF8E667D990C8A9A42.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.14.50:485][147]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/TopDownBP/Character/erika_archer_bow_arrow_Skeleton.erika_archer_bow_arrow_Skeleton
+[2019.06.26-14.14.50:501][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-14.14.50:537][147]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-14.14.50:841][148]LogRenderer: Reallocating scene render targets to support 1140x672 Format 10 NumSamples 1 (Frame:1).
+[2019.06.26-14.15.06:068][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-14.15.20:466][911]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.15.21:671][967]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest2FFADAAA34D1F88697DD3BA8038EB5A44.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.15.50:039][666]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.15.50:745][692]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest22617F3174D42E0EC726482AF790CDA5C.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.16.08:325][728]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.26-14.16.10:585][860]BlueprintLog: New page: Compile TopDownCharacter
+[2019.06.26-14.16.11:395][881]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacterA73FE7DE43BD49A5B84ECD9E907EA5B7.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-14.16.11:396][881]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset', retrying in .5s...
+[2019.06.26-14.16.11:897][881]LogFileManager: Error: Error deleting file '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'.
+[2019.06.26-14.16.11:897][881]LogSavePackage: Error: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-14.16.13:376][881]LogSlate: Window 'Message' being destroyed
+[2019.06.26-14.16.13:389][881]EditorErrors: New page: Save Output
+[2019.06.26-14.16.13:389][881]EditorErrors: Warning: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-14.16.14:917][881]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.06.26-14.16.16:361][967]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-14.16.16:368][967]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-14.16.17:661][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-14.16.17:692][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.16.17:693][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-14.16.17:693][ 45]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 6:16:17 AM)
+[2019.06.26-14.16.17:693][ 45]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-14.16.17:709][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015973s)
+[2019.06.26-14.16.17:710][ 45]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-14.16.17:710][ 45]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.06.26-14.16.17:710][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017041s)
+[2019.06.26-14.16.17:831][ 45]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-14.16.17:844][ 45]LogInit: FAudioDevice initialized.
+[2019.06.26-14.16.17:874][ 45]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-14.16.17:878][ 45]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.06.26-10.16.17
+[2019.06.26-14.16.17:879][ 45]LogWorld: Bringing up level for play took: 0.003190
+[2019.06.26-14.16.17:892][ 45]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.149
+[2019.06.26-14.16.17:892][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.16.28:293][664]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.16.28:293][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-14.16.28:338][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-14.16.28:339][664]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.16.28:366][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-14.16.28:413][666]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.06.26-14.16.29:548][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-14.17.31:193][341]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.17.31:217][341]LogBlueprint: Warning: [Compiler ABP_LiaraTest2] IdleWalkBackRunBack to IdleWalkRun  will never be taken, please connect something to  Can Enter Transition
+[2019.06.26-14.17.31:377][341]LogBlueprint: Warning: [Compiler ABP_LiaraTest2] [3224.20] Compile of ABP_LiaraTest2 successful, but with 1 Warning(s) [in 183 ms] (/Game/TopDownBP/Character/Animations/ABP_LiaraTest2.ABP_LiaraTest2)
+[2019.06.26-14.17.31:863][364]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest2272EC7E343747C83A1F5C3BB34F784EB.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.17.43:525][ 49]BlueprintLog: New page: Compile ABP_LiaraTest2
+[2019.06.26-14.17.44:176][ 71]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_LiaraTest28F115326452BF8D0F99036A1D2F6F571.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Character/Animations/ABP_LiaraTest2.uasset'
+[2019.06.26-14.17.45:167][129]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-14.17.45:183][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.17.45:183][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-14.17.45:183][129]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 6:17:45 AM)
+[2019.06.26-14.17.45:183][129]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-14.17.45:199][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015491s)
+[2019.06.26-14.17.45:200][129]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-14.17.45:200][129]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.06.26-14.17.45:200][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016377s)
+[2019.06.26-14.17.45:301][129]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-14.17.45:312][129]LogInit: FAudioDevice initialized.
+[2019.06.26-14.17.45:344][129]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-14.17.45:347][129]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.06.26-10.17.45
+[2019.06.26-14.17.45:348][129]LogWorld: Bringing up level for play took: 0.002583
+[2019.06.26-14.17.45:361][129]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.618
+[2019.06.26-14.17.45:361][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.17.47:150][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.17.47:150][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-14.17.47:200][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-14.17.47:200][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.17.47:230][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-14.17.47:275][237]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.06.26-14.18.24:632][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-14.19.22:134][860]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.26-14.19.25:897][ 80]BlueprintLog: New page: Compile TopDownCharacter
+[2019.06.26-14.19.26:808][107]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacterAC8261094F057F0A3C7BC487226F037F.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-14.19.26:809][107]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset', retrying in .5s...
+[2019.06.26-14.19.27:310][107]LogFileManager: Error: Error deleting file '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'.
+[2019.06.26-14.19.27:310][107]LogSavePackage: Error: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-14.19.29:314][107]LogSlate: Window 'Message' being destroyed
+[2019.06.26-14.19.29:325][107]EditorErrors: New page: Save Output
+[2019.06.26-14.19.29:325][107]EditorErrors: Warning: Error saving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.26-14.19.30:182][107]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.06.26-14.19.31:786][203]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-14.19.31:794][203]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-14.19.32:394][239]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.26-14.19.32:424][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.19.32:424][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-14.19.32:424][239]PIE: New page: PIE session: TopDownExampleMap (Jun 26, 2019, 6:19:32 AM)
+[2019.06.26-14.19.32:424][239]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.26-14.19.32:439][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014567s)
+[2019.06.26-14.19.32:440][239]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.26-14.19.32:440][239]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2019.06.26-14.19.32:440][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015831s)
+[2019.06.26-14.19.32:552][239]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.26-14.19.32:563][239]LogInit: FAudioDevice initialized.
+[2019.06.26-14.19.32:593][239]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.26-14.19.32:596][239]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.06.26-10.19.32
+[2019.06.26-14.19.32:597][239]LogWorld: Bringing up level for play took: 0.002717
+[2019.06.26-14.19.32:610][239]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.132
+[2019.06.26-14.19.32:611][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.19.45:951][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.19.45:952][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-14.19.45:991][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-14.19.45:991][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.26-14.19.46:016][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-14.19.46:064][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.06.26-14.22.17:185][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-14.27.04:092][336]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownExampleMap_Auto47DCFF4504AC1AF2FF3C6F688D3EFAC65.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2019.06.26-14.27.04:111][336]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 2.400
+[2019.06.26-14.27.04:111][336]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.400
+[2019.06.26-14.27.04:130][336]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2019.06.26-14.27.04:130][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2019.06.26-14.27.04:195][336]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacter_Auto4C7E74D4E41F0CA349A052B9B6420EED5.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto4.uasset'
+[2019.06.26-14.27.04:200][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Animations/ABP_Liara] ([1] browsable assets)...
+[2019.06.26-14.27.04:230][336]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TopDownBP/Character/Animations/ABP_Liara.ABP_Liara]
+[2019.06.26-14.27.04:231][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Animations/ABP_Liara]
+[2019.06.26-14.27.04:301][336]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/ABP_Liara_Auto4715428D242B6FF4412F301B8041A2C4E.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/TopDownBP/Character/Animations/ABP_Liara_Auto4.uasset'
+[2019.06.26-14.27.04:314][336]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Animations/Attack_AnimMontage] ([1] browsable assets)...
+[2019.06.26-14.27.04:316][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Attack_AnimMontage]
+[2019.06.26-14.27.04:336][336]LogSavePackage: Moving '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Attack_AnimMontage_Auto43B9A198F4192386B067569BEC222A616.tmp' to '../../../../Personal Projects/Project_Timewarp/Project_Timewarp/Saved/Autosaves/Game/Mannequin/Animations/Attack_AnimMontage_Auto4.uasset'
+[2019.06.26-14.27.04:339][336]LogFileHelpers: Auto-saving content packages took 0.211
+[2019.06.26-14.27.07:495][433]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:304 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.06.26-14.27.07:495][433]LogD3D11RHI: [Aftermath] GDynamicRHI=000001882A432140, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.06.26-14.27.07:495][433]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.06.26-14.27.13:765][433]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.06.26-14.27.13:780][433]LogWindows: Error: === Critical error: ===
+[2019.06.26-14.27.13:780][433]LogWindows: Error: 
+[2019.06.26-14.27.13:780][433]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 826] 
+[2019.06.26-14.27.13:780][433]LogWindows: Error: Rendering thread exception:
+[2019.06.26-14.27.13:780][433]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 200] 
+[2019.06.26-14.27.13:780][433]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2019.06.26-14.27.13:780][433]LogWindows: Error: 
+[2019.06.26-14.27.13:780][433]LogWindows: Error: 
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ffa5e53a839 KERNELBASE.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9dc6e6850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9e01162fc UE4Editor-Core.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9e00a51db UE4Editor-Core.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9cc1cadea UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9cc1ce6e4 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9cc1ad0aa UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9cc1bab70 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9dc8bb106 UE4Editor-RHI.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9cbf31b42 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9cbf37d0a UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9dff31f92 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9dff32456 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9dc9c75f9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9dc9c8574 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9e0376b7c UE4Editor-Core.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ff9e03717c7 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ffa5fa57bd4 KERNEL32.DLL!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: [Callstack] 0x00007ffa610ece71 ntdll.dll!UnknownFunction []
+[2019.06.26-14.27.13:780][433]LogWindows: Error: 
+[2019.06.26-14.27.13:780][433]LogWindows: Error: 
+[2019.06.26-14.27.13:780][433]LogWindows: Error: 
+[2019.06.26-14.27.13:780][433]LogWindows: Error: 
+[2019.06.26-14.27.13:814][433]LogExit: Executing StaticShutdownAfterError
+[2019.06.26-14.27.13:916][433]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.06.26-14.27.13:921][433]Log file closed, 06/26/19 10:27:13
