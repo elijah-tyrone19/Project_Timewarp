@@ -1,0 +1,1574 @@
+﻿Log file open, 01/23/20 20:26:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project_Timewarp
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.053131
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i9-9900KF CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Engine.ini]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Engine.ini]
+[2020.01.24-01.26.29:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Engine.ini]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Engine.ini]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.24-01.26.29:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Engine.ini]
+[2020.01.24-01.26.29:098][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Engine.ini]
+[2020.01.24-01.26.29:102][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.24-01.26.29:102][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.24-01.26.29:102][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.24-01.26.29:102][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.24-01.26.29:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.24-01.26.29:103][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.24-01.26.29:103][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.24-01.26.29:105][  0]LogHAL: Display: Platform has ~ 32 GB [34286043136 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.24-01.26.29:105][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.24-01.26.29:105][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.24-01.26.29:105][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Scalability.ini]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.24-01.26.29:106][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.24-01.26.29:106][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.24-01.26.29:107][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.24-01.26.29:107][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Config/Windows/Engine.ini]
+[2020.01.24-01.26.29:107][  0]LogInit: Computer: DESKTOP-O00IS11
+[2020.01.24-01.26.29:107][  0]LogInit: User: elija
+[2020.01.24-01.26.29:107][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.01.24-01.26.29:107][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.24-01.26.29:107][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.01.24-01.26.29:107][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.24-01.26.29:107][  0]LogMemory: Process Physical Memory: 106.63 MB used, 106.64 MB peak
+[2020.01.24-01.26.29:107][  0]LogMemory: Process Virtual Memory: 102.92 MB used, 102.92 MB peak
+[2020.01.24-01.26.29:107][  0]LogMemory: Physical Memory: 9243.99 MB used,  23453.73 MB free, 32697.72 MB total
+[2020.01.24-01.26.29:107][  0]LogMemory: Virtual Memory: 5183.82 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.01.24-01.26.29:109][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.24-01.26.29:122][  0]LogInit: Using OS detected language (en-US).
+[2020.01.24-01.26.29:122][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.24-01.26.29:122][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.24-01.26.29:237][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.24-01.26.29:260][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.24-01.26.29:260][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.24-01.26.29:357][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.24-01.26.29:357][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.01.24-01.26.29:357][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.01.24-01.26.29:357][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.24-01.26.29:419][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2020.01.24-01.26.29:419][  0]LogD3D11RHI:       8010/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.24-01.26.29:421][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.24-01.26.29:421][  0]LogD3D11RHI:       0/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.24-01.26.29:421][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.24-01.26.29:428][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.24-01.26.29:428][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.24-01.26.29:428][  0]LogWindows: EnumDisplayDevices:
+[2020.01.24-01.26.29:429][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2020.01.24-01.26.29:429][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:1)
+[2020.01.24-01.26.29:429][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.01.24-01.26.29:429][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.01.24-01.26.29:429][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.24-01.26.29:429][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2020.01.24-01.26.29:429][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.01.24-01.26.29:429][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.01.24-01.26.29:429][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.01.24-01.26.29:465][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.01.24-01.26.29:465][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.24-01.26.29:484][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.24-01.26.29:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.01.24-01.26.29:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.01.24-01.26.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.01.24-01.26.29:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.01.24-01.26.29:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.01.24-01.26.29:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.24-01.26.29:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.01.24-01.26.29:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.01.24-01.26.29:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.01.24-01.26.29:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.01.24-01.26.29:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.01.24-01.26.29:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.01.24-01.26.29:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.01.24-01.26.29:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.01.24-01.26.29:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.01.24-01.26.29:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.24-01.26.29:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.01.24-01.26.29:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.01.24-01.26.29:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.01.24-01.26.29:807][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.24-01.26.29:809][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.24-01.26.29:825][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Intermediate/Shaders/WorkingDirectory/2188/).
+[2020.01.24-01.26.29:825][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/elija/AppData/Local/Temp/UnrealShaderWorkingDir/95ADC9DE480E9F83A09C91A87AE5FDD5/'.
+[2020.01.24-01.26.29:825][  0]LogXGEController: Cleaning working directory: C:/Users/elija/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.24-01.26.29:825][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.24-01.26.29:825][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.24-01.26.29:825][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.24-01.26.30:330][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.24-01.26.30:377][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/elija/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.24-01.26.30:377][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/elija/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.01.24-01.26.30:377][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.24-01.26.30:377][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.24-01.26.30:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.24-01.26.30:378][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.24-01.26.30:385][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.24-01.26.30:385][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.24-01.26.30:385][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.24-01.26.30:386][  0]LogDerivedDataCache: Using Local data cache path C:/Users/elija/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.24-01.26.30:386][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.24-01.26.30:386][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.24-01.26.30:405][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.24-01.26.30:407][  0]LogSlate: Using FreeType 2.10.0
+[2020.01.24-01.26.30:407][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.24-01.26.30:443][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2020.01.24-01.26.30:651][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.24-01.26.30:761][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.24-01.26.30:761][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.24-01.26.30:761][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.24-01.26.30:761][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.24-01.26.30:761][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.24-01.26.30:771][  0]LogNetVersion: Project_Timewarp 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 538925929)
+[2020.01.24-01.26.30:805][  0]LogInput: Warning: Action SetDestination uses deprecated key MotionController_Right_Trigger.
+[2020.01.24-01.26.30:805][  0]LogInput: Warning: Action ResetVR uses deprecated key MotionController_Left_Grip1.
+[2020.01.24-01.26.30:805][  0]LogInput: Warning: Axis TurnRate uses deprecated key MotionController_Right_Thumbstick_X.
+[2020.01.24-01.26.31:505][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.035926 seconds
+[2020.01.24-01.26.31:511][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.01.24-01.26.31:511][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.01.24-01.26.31:511][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.24-01.26.31:771][  0]LogPython: Using Python 2.7.14
+[2020.01.24-01.26.32:265][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.24-01.26.32:267][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.24-01.26.32:315][  0]SourceControl: Source control is disabled
+[2020.01.24-01.26.32:315][  0]SourceControl: Source control is disabled
+[2020.01.24-01.26.32:316][  0]SourceControl: Source control is disabled
+[2020.01.24-01.26.32:316][  0]SourceControl: Source control is disabled
+[2020.01.24-01.26.32:317][  0]SourceControl: Source control is disabled
+[2020.01.24-01.26.32:323][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.24-01.26.32:323][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.24-01.26.32:400][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.24-01.26.32:414][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.24-01.26.32:414][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.24-01.26.32:489][  0]LogOcInput: OculusInput pre-init called
+[2020.01.24-01.26.32:495][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.24-01.26.32:495][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.24-01.26.33:251][  0]LogEngine: Initializing Engine...
+[2020.01.24-01.26.33:252][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.24-01.26.33:252][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.24-01.26.33:490][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.24-01.26.33:496][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.24-01.26.33:513][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.24-01.26.33:514][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.24-01.26.33:514][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.24-01.26.33:514][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.24-01.26.33:514][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.24-01.26.33:514][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.24-01.26.33:514][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.24-01.26.33:514][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.24-01.26.33:514][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.24-01.26.33:514][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.24-01.26.33:539][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.24-01.26.33:539][  0]LogAudioMixer: Display: Name: Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.26.33:539][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.24-01.26.33:539][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.24-01.26.33:539][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.24-01.26.33:539][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.24-01.26.33:539][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.24-01.26.33:539][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.24-01.26.33:539][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.24-01.26.33:553][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.26.33:555][  0]LogInit: FAudioDevice initialized.
+[2020.01.24-01.26.33:555][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.24-01.26.33:598][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/elija/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.24-01.26.33:600][  0]LogInit: Texture streaming: Enabled
+[2020.01.24-01.26.33:607][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.24-01.26.33:607][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.24-01.26.33:608][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.24-01.26.33:648][  0]LogInit: Transaction tracking system initialized
+[2020.01.24-01.26.33:655][  0]BlueprintLog: New page: Editor Load
+[2020.01.24-01.26.33:676][  0]LocalizationService: Localization service is disabled
+[2020.01.24-01.26.33:718][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.24-01.26.33:719][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.24-01.26.33:870][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/' took 0.00s
+[2020.01.24-01.26.33:870][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.24-01.26.33:870][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.24-01.26.34:322][  0]SourceControl: Source control is disabled
+[2020.01.24-01.26.34:322][  0]Cmd: MAP LOAD FILE="../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.24-01.26.34:322][  0]LightingResults: New page: Lighting Build
+[2020.01.24-01.26.34:323][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.26.34:323][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.26.34:323][  0]MapCheck: New page: Map Check
+[2020.01.24-01.26.34:323][  0]LightingResults: New page: Lighting Build
+[2020.01.24-01.26.34:352][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.01.24-01.26.34:685][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.24-01.26.34:698][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.24-01.26.34:727][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.01.24-01.26.34:727][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.24-01.26.34:728][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2020.01.24-01.26.34:728][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.406
+[2020.01.24-01.26.34:843][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.26.34:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.26.34:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.26.34:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.26.34:862][  0]LogCollectionManager: Loaded 0 collections in 0.001416 seconds
+[2020.01.24-01.26.34:872][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/Collections/' took 0.00s
+[2020.01.24-01.26.34:872][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/Developers/elija/Collections/' took 0.00s
+[2020.01.24-01.26.34:872][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/Collections/' took 0.00s
+[2020.01.24-01.26.34:872][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 3038 classes and 727 folders.
+[2020.01.24-01.26.34:874][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.24-01.26.34:876][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2020.01.24-01.26.34:879][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.01.24-01.26.35:649][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.24-01.26.35:651][  0]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.24-01.26.35:653][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.24-01.26.35:706][  0]LogRenderer: Reallocating scene render targets to support 1288x716 Format 10 NumSamples 1 (Frame:1).
+[2020.01.24-01.26.35:803][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.24-01.26.35:805][  0]LogLoad: (Engine Initialization) Total time: 7.50 seconds
+[2020.01.24-01.26.35:805][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.24-01.26.35:815][  0]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2020.01.24-01.26.35:815][  0]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2020.01.24-01.26.35:832][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.24-01.26.35:883][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.24-01.26.38:121][219]LogAssetRegistry: Asset discovery search completed in 7.6795 seconds
+[2020.01.24-01.26.38:124][219]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 16X16)
+[2020.01.24-01.26.47:239][255]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 16X16)
+[2020.01.24-01.26.47:240][255]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 16X16)
+[2020.01.24-01.26.47:241][255]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_275 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_276 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_279 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2020.01.24-01.26.47:242][255]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_281 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_282 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_283 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_284 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_285 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_286 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_288 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_289 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_292 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_293 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_294 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_295 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_296 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_297 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_298 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_299 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_300 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_301 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_302 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_303 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_304 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_305 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_306 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_307 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_308 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_309 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_310 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_311 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_312 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_313 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_314 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_315 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_316 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_317 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_318 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_319 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_320 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_321 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_322 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_323 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_324 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_325 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_326 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_327 (BGRA8, 16X16)
+[2020.01.24-01.26.47:243][255]LogTexture: Display: Building textures: Texture2D_328 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_329 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_330 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_331 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_332 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_333 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_334 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_335 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_336 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_337 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_338 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_339 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_340 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_341 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_342 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_343 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_344 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_345 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_346 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_347 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_348 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_349 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_350 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_351 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_352 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_353 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_354 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_355 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_356 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_357 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_358 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_359 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_360 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_361 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_362 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_363 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_364 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_365 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_366 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_367 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_368 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_369 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_370 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_371 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_372 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_373 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_374 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_375 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_376 (BGRA8, 16X16)
+[2020.01.24-01.26.47:244][255]LogTexture: Display: Building textures: Texture2D_377 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_378 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_379 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_380 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_381 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_382 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_383 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_384 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_385 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_386 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_387 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_388 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_389 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_390 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_391 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_392 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_393 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_394 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 16X16)
+[2020.01.24-01.26.47:245][255]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 16X16)
+[2020.01.24-01.26.47:246][255]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 92
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 91
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 90
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 89
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 88
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 87
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 86
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 85
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 84
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 83
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 82
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 81
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 80
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 79
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 78
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 77
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 76
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 75
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 74
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 73
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 72
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 71
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 70
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 69
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 68
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 67
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 66
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 65
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 64
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 63
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 62
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 61
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 60
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 59
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 58
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 57
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 56
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 55
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 54
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 53
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 52
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 51
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 50
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 48
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 47
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 46
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 45
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 44
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 43
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 42
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 41
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 40
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 38
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 37
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 36
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 35
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 34
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 33
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 32
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 31
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 30
+[2020.01.24-01.26.50:413][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 29
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 28
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 25
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 24
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 21
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2020.01.24-01.26.50:414][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2020.01.24-01.26.50:448][255]LogAIModule: Creating AISystem for world Blockout_Tuck
+[2020.01.24-01.26.50:454][255]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.01.24-01.26.50:461][255]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2020.01.24-01.26.50:482][255]MapCheck: Warning: M_Basic_Wall Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 47
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 35
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 31
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 27
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 23
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2020.01.24-01.26.50:529][255]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2020.01.24-01.26.50:541][255]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck
+[2020.01.24-01.26.50:580][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.01.24-01.26.50:583][255]Cmd: MAP LOAD FILE="../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Maps/Blockout_Tuck.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.24-01.26.50:583][255]LightingResults: New page: Lighting Build
+[2020.01.24-01.26.50:584][255]LoadErrors: New page: Loading map: Blockout_Tuck.umap
+[2020.01.24-01.26.50:585][255]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.26.50:586][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.26.50:586][255]MapCheck: New page: Map Check
+[2020.01.24-01.26.50:586][255]LightingResults: New page: Lighting Build
+[2020.01.24-01.26.50:617][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.01.24-01.26.50:707][255]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.24-01.26.50:754][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.01.24-01.26.50:788][255]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.24-01.26.50:788][255]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2020.01.24-01.26.50:788][255]LogFileHelpers: Loading map 'Blockout_Tuck' took 0.206
+[2020.01.24-01.26.52:914][394]LogSlate: Window 'Message Log' being destroyed
+[2020.01.24-01.26.52:922][394]LogSlate: Window 'Message Log' being destroyed
+[2020.01.24-01.26.55:309][667]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.26.55:318][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck' with GeneratedClass '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck'
+[2020.01.24-01.26.55:318][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.26.55:318][667]PIE: New page: PIE session: Blockout_Tuck (Jan 23, 2020, 3:26:55 PM)
+[2020.01.24-01.26.55:319][667]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.24-01.26.55:320][667]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.01.24-01.26.55:320][667]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck
+[2020.01.24-01.26.55:469][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149966s)
+[2020.01.24-01.26.55:470][667]LogAIModule: Creating AISystem for world Blockout_Tuck
+[2020.01.24-01.26.55:470][667]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2020.01.24-01.26.55:470][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck to /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck.Blockout_Tuck (0.151010s)
+[2020.01.24-01.26.55:495][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.01.24-01.26.55:496][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.24-01.26.55:496][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.24-01.26.55:496][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.24-01.26.55:496][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.24-01.26.55:496][667]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.24-01.26.55:496][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.24-01.26.55:496][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.24-01.26.55:496][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.24-01.26.55:496][667]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.24-01.26.55:496][667]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.24-01.26.55:517][667]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.24-01.26.55:517][667]LogAudioMixer: Display: Name: Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.26.55:517][667]LogAudioMixer: Display: Is Default: Yes
+[2020.01.24-01.26.55:518][667]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.24-01.26.55:518][667]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.24-01.26.55:518][667]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.24-01.26.55:518][667]LogAudioMixer: Display: Channel Order:
+[2020.01.24-01.26.55:518][667]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.24-01.26.55:518][667]LogAudioMixer: Display: 1: FrontRight
+[2020.01.24-01.26.55:526][667]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.26.55:527][667]LogInit: FAudioDevice initialized.
+[2020.01.24-01.26.55:532][667]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.24-01.26.55:539][667]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck.Blockout_Tuck up for play (max tick rate 0) at 2020.01.23-20.26.55
+[2020.01.24-01.26.55:545][667]LogWorld: Bringing up level for play took: 0.011820
+[2020.01.24-01.26.55:545][667]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.01.24-01.26.55:548][667]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.24-01.26.55:551][667]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.01.24-01.26.55:552][667]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck 0.708
+[2020.01.24-01.26.55:552][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck' with GeneratedClass '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck'
+[2020.01.24-01.27.05:461][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.27.05:461][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.27.05:461][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck' with GeneratedClass '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck'
+[2020.01.24-01.27.05:461][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.27.05:461][850]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck
+[2020.01.24-01.27.05:462][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.27.05:462][850]LogWorld: UWorld::CleanupWorld for Blockout_Tuck, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.27.05:463][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.27.05:469][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.27.05:469][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck' with GeneratedClass '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck'
+[2020.01.24-01.27.05:473][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.27.05:498][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.27.05:500][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.27.05:513][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.01.24-01.27.05:569][855]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.01.24-01.27.22:322][795]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.27.22:332][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck' with GeneratedClass '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck'
+[2020.01.24-01.27.22:332][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.27.22:332][795]PIE: New page: PIE session: Blockout_Tuck (Jan 23, 2020, 3:27:22 PM)
+[2020.01.24-01.27.22:332][795]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck
+[2020.01.24-01.27.22:567][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.235311s)
+[2020.01.24-01.27.22:568][795]LogAIModule: Creating AISystem for world Blockout_Tuck
+[2020.01.24-01.27.22:568][795]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2020.01.24-01.27.22:568][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck to /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck.Blockout_Tuck (0.236441s)
+[2020.01.24-01.27.22:594][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.01.24-01.27.22:595][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.24-01.27.22:595][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.24-01.27.22:595][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.24-01.27.22:595][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.24-01.27.22:595][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.24-01.27.22:596][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.24-01.27.22:596][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.24-01.27.22:596][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.24-01.27.22:596][795]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.24-01.27.22:596][795]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.24-01.27.22:617][795]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.24-01.27.22:617][795]LogAudioMixer: Display: Name: Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.27.22:617][795]LogAudioMixer: Display: Is Default: Yes
+[2020.01.24-01.27.22:617][795]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.24-01.27.22:617][795]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.24-01.27.22:617][795]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.24-01.27.22:617][795]LogAudioMixer: Display: Channel Order:
+[2020.01.24-01.27.22:617][795]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.24-01.27.22:617][795]LogAudioMixer: Display: 1: FrontRight
+[2020.01.24-01.27.22:625][795]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.27.22:626][795]LogInit: FAudioDevice initialized.
+[2020.01.24-01.27.22:638][795]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.24-01.27.22:646][795]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck.Blockout_Tuck up for play (max tick rate 0) at 2020.01.23-20.27.22
+[2020.01.24-01.27.22:646][795]LogWorld: Bringing up level for play took: 0.007204
+[2020.01.24-01.27.22:647][795]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.01.24-01.27.22:648][795]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.24-01.27.22:649][795]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck -0.196
+[2020.01.24-01.27.22:649][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck' with GeneratedClass '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck'
+[2020.01.24-01.28.04:968][868]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.28.04:975][868]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.01.24-01.28.04:995][868]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.01.24-01.28.04:995][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck' with GeneratedClass '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck'
+[2020.01.24-01.28.04:996][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.28.04:996][868]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Blockout_Tuck
+[2020.01.24-01.28.04:996][868]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.28.04:997][868]LogWorld: UWorld::CleanupWorld for Blockout_Tuck, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.28.04:999][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.28.05:010][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.28.05:010][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck' with GeneratedClass '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Blockout_Tuck.Blockout_Tuck:PersistentLevel.Blockout_Tuck'
+[2020.01.24-01.28.05:016][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.28.05:053][868]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.28.05:056][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.28.05:067][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.01.24-01.28.05:081][869]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.01.24-01.28.32:815][171]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.24-01.31.48:157][381]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.24-01.31.48:175][381]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.01.24-01.31.48:202][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.01.24-01.31.48:203][381]Cmd: MAP LOAD FILE="../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.24-01.31.48:203][381]LightingResults: New page: Lighting Build
+[2020.01.24-01.31.48:204][381]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2020.01.24-01.31.48:207][381]LogWorld: UWorld::CleanupWorld for Blockout_Tuck, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.31.48:207][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.31.48:207][381]MapCheck: New page: Map Check
+[2020.01.24-01.31.48:207][381]LightingResults: New page: Lighting Build
+[2020.01.24-01.31.48:248][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.01.24-01.31.48:253][381]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.24-01.31.48:279][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.24-01.31.48:297][381]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.24-01.31.48:297][381]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2020.01.24-01.31.48:297][381]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.094
+[2020.01.24-01.31.50:772][667]LogEditorViewport: Clicking on Actor (LMB): BP_RangedGrunt_C (BP_RangedGrunt)
+[2020.01.24-01.34.10:125][796]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.34.10:135][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.34.10:135][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.34.10:135][796]PIE: New page: PIE session: TopDownExampleMap (Jan 23, 2020, 3:34:10 PM)
+[2020.01.24-01.34.10:135][796]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.24-01.34.10:147][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012180s)
+[2020.01.24-01.34.10:148][796]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.24-01.34.10:148][796]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2020.01.24-01.34.10:149][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013334s)
+[2020.01.24-01.34.10:174][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.01.24-01.34.10:175][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.24-01.34.10:175][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.24-01.34.10:175][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.24-01.34.10:175][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.24-01.34.10:175][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.24-01.34.10:175][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.24-01.34.10:175][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.24-01.34.10:175][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.24-01.34.10:175][796]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.24-01.34.10:175][796]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.24-01.34.10:197][796]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.24-01.34.10:197][796]LogAudioMixer: Display: Name: Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.34.10:197][796]LogAudioMixer: Display: Is Default: Yes
+[2020.01.24-01.34.10:197][796]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.24-01.34.10:197][796]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.24-01.34.10:197][796]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.24-01.34.10:197][796]LogAudioMixer: Display: Channel Order:
+[2020.01.24-01.34.10:197][796]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.24-01.34.10:197][796]LogAudioMixer: Display: 1: FrontRight
+[2020.01.24-01.34.10:205][796]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.34.10:206][796]LogInit: FAudioDevice initialized.
+[2020.01.24-01.34.10:212][796]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.24-01.34.10:212][796]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.23-20.34.10
+[2020.01.24-01.34.10:213][796]LogWorld: Bringing up level for play took: 0.001298
+[2020.01.24-01.34.10:213][796]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.01.24-01.34.10:215][796]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.628
+[2020.01.24-01.34.10:215][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.34.13:431][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.34.13:431][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.34.13:431][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.34.13:432][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.34.13:432][179]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.24-01.34.13:432][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.34.13:432][179]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.34.13:432][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.34.13:437][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.34.13:437][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.34.13:439][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.34.13:463][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.34.13:466][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.34.13:468][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.01.24-01.34.13:538][186]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.01.24-01.34.15:464][387]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap
+[2020.01.24-01.34.15:634][387]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.01.24-01.34.16:197][387]LogSlate: Took 0.003181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.24-01.34.18:575][664]LogSlate: Window 'TopDownExampleMap' being destroyed
+[2020.01.24-01.34.18:579][664]LogSlate: Window 'TopDownExampleMap' being destroyed
+[2020.01.24-01.34.18:594][664]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.34.18:594][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.34.32:934][326]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.34.32:944][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.34.32:944][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.34.32:944][326]PIE: New page: PIE session: TopDownExampleMap (Jan 23, 2020, 3:34:32 PM)
+[2020.01.24-01.34.32:944][326]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.24-01.34.32:955][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011377s)
+[2020.01.24-01.34.32:956][326]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.24-01.34.32:956][326]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2020.01.24-01.34.32:956][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012409s)
+[2020.01.24-01.34.32:989][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.01.24-01.34.32:991][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.24-01.34.32:991][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.24-01.34.32:991][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.24-01.34.32:991][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.24-01.34.32:991][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.24-01.34.32:991][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.24-01.34.32:991][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.24-01.34.32:991][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.24-01.34.32:991][326]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.24-01.34.32:991][326]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.24-01.34.33:013][326]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.24-01.34.33:013][326]LogAudioMixer: Display: Name: Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.34.33:013][326]LogAudioMixer: Display: Is Default: Yes
+[2020.01.24-01.34.33:013][326]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.24-01.34.33:013][326]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.24-01.34.33:013][326]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.24-01.34.33:013][326]LogAudioMixer: Display: Channel Order:
+[2020.01.24-01.34.33:013][326]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.24-01.34.33:013][326]LogAudioMixer: Display: 1: FrontRight
+[2020.01.24-01.34.33:020][326]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.34.33:021][326]LogInit: FAudioDevice initialized.
+[2020.01.24-01.34.33:034][326]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.24-01.34.33:038][326]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.23-20.34.33
+[2020.01.24-01.34.33:038][326]LogWorld: Bringing up level for play took: 0.002513
+[2020.01.24-01.34.33:039][326]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.01.24-01.34.33:043][326]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.199
+[2020.01.24-01.34.33:043][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.34.40:225][180]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.34.40:225][180]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.34.40:225][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.34.40:225][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.34.40:225][180]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.24-01.34.40:225][180]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.34.40:225][180]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.34.40:225][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.34.40:234][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.34.40:235][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.34.40:238][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.34.40:265][180]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.34.40:267][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.34.40:270][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.01.24-01.34.40:331][186]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.24-01.34.58:981][420]LogEditorViewport: Clicking on Actor (LMB): BP_MeleeGolem_C (BP_MeleeGolem)
+[2020.01.24-01.34.59:011][420]LogLinker: Warning: Failed to load '/Game/InfinityBladeAdversaries/Enemy/Enemy_BlackKnight/Enemy_BlackKnight': Can't find file.
+[2020.01.24-01.34.59:011][420]LogLinker: Warning: Failed to load '/Game/InfinityBladeAdversaries/Enemy/Enemy_BlackKnight/Enemy_BlackKnight': Can't find file.
+[2020.01.24-01.34.59:012][420]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/InfinityBladeAdversaries/Enemy/Enemy_BlackKnight/Enemy_BlackKnight.Enemy_BlackKnight'
+[2020.01.24-01.34.59:837][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-01.35.06:610][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Enemies/BP_MeleeGolem.BP_MeleeGolem
+[2020.01.24-01.35.06:979][295]LogSlate: Took 0.003191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.24-01.35.07:482][346]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Enemies/BP_RangedGrunt.BP_RangedGrunt
+[2020.01.24-01.35.09:482][497]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Enemies/BP_Enemy.BP_Enemy
+[2020.01.24-01.35.40:868][873]BlueprintLog: New page: Compile BP_Enemy
+[2020.01.24-01.35.40:894][873]LogBlueprint: Warning: [Compiler BP_Enemy] Could not find a variable named "IsSlow?" in 'BP_Enemy_C'.
+Make sure 'BP_Enemy_C' has been compiled for  Set IsSlow?
+[2020.01.24-01.35.40:894][873]LogBlueprint: Warning: [Compiler BP_Enemy] Could not find a variable named "IsSlow?" in 'BP_Enemy_C'.
+Make sure 'BP_Enemy_C' has been compiled for  Set IsSlow?
+[2020.01.24-01.35.40:894][873]LogBlueprint: Error: [Compiler BP_Enemy] The property associated with  Is Slow?  could not be found in '/Game/TopDownBP/Enemies/BP_Enemy.BP_Enemy_C'
+[2020.01.24-01.35.40:894][873]LogBlueprint: Error: [Compiler BP_Enemy] The property associated with  Is Slow?  could not be found in '/Game/TopDownBP/Enemies/BP_Enemy.BP_Enemy_C'
+[2020.01.24-01.35.41:080][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.01.24-01.35.55:687][401]LogBlueprint: Warning: Blueprint BP_RangedGrunt (child of/implements BP_Enemy) has a member variable with a conflicting name (IsSlow?). Changing to IsSlow?_0.
+[2020.01.24-01.35.56:993][534]BlueprintLog: New page: Compile BP_Enemy
+[2020.01.24-01.35.57:181][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.01.24-01.35.57:652][579]LogSavePackage: Moving '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/BP_Enemy0C59F5AA404BA2B87AEB2E9E2A05B561.tmp' to '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Enemies/BP_Enemy.uasset'
+[2020.01.24-01.35.57:669][579]AssetCheck: New page: Asset Save: BP_Enemy
+[2020.01.24-01.35.57:669][579]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Enemies/BP_Enemy.BP_Enemy
+[2020.01.24-01.36.14:234][264]BlueprintLog: New page: Compile BP_MeleeGolem
+[2020.01.24-01.36.14:409][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.01.24-01.36.15:998][423]LogSavePackage: Moving '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/BP_MeleeGolemCC6EDECB4A837C811E505DB9F3D0692A.tmp' to '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Enemies/BP_MeleeGolem.uasset'
+[2020.01.24-01.36.16:011][423]AssetCheck: New page: Asset Save: BP_MeleeGolem
+[2020.01.24-01.36.16:011][423]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Enemies/BP_MeleeGolem.BP_MeleeGolem
+[2020.01.24-01.36.17:456][577]LogSlate: Window 'BP_Enemy' being destroyed
+[2020.01.24-01.36.17:459][577]LogSlate: Window 'BP_Enemy' being destroyed
+[2020.01.24-01.36.17:473][577]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.36.17:473][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.36.17:510][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.24-01.36.17:510][577]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.36.17:510][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.36.17:553][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.24-01.36.17:553][577]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.36.17:553][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.36.26:643][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.01.24-01.36.28:015][695]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.01.24-01.36.28:025][696]LogRenderer: Reallocating scene render targets to support 1612x896 Format 10 NumSamples 1 (Frame:14196).
+[2020.01.24-01.36.51:889][411]BlueprintLog: New page: Compile TopDownCharacter
+[2020.01.24-01.36.52:083][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.01.24-01.36.52:640][454]LogSavePackage: Moving '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/TopDownCharacter64047C554FDB513DEA96EBB787A23423.tmp' to '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.01.24-01.36.52:656][454]AssetCheck: New page: Asset Save: TopDownCharacter
+[2020.01.24-01.36.52:656][454]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.01.24-01.36.58:145][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.36.58:157][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.36.58:157][ 95]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.24-01.36.58:158][ 95]LogPlayLevel: [PlayLevel] Compiling BP_RangedGrunt before play...
+[2020.01.24-01.36.58:325][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.01.24-01.36.58:326][ 95]LogPlayLevel: PlayLevel: Blueprint regeneration took 167 ms (1 blueprints)
+[2020.01.24-01.36.58:326][ 95]PIE: New page: PIE session: TopDownExampleMap (Jan 23, 2020, 3:36:58 PM)
+[2020.01.24-01.36.58:326][ 95]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.24-01.36.58:336][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009770s)
+[2020.01.24-01.36.58:337][ 95]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.24-01.36.58:337][ 95]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2020.01.24-01.36.58:337][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010682s)
+[2020.01.24-01.36.58:370][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.01.24-01.36.58:370][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.24-01.36.58:370][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.24-01.36.58:370][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.24-01.36.58:370][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.24-01.36.58:370][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.24-01.36.58:370][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.24-01.36.58:370][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.24-01.36.58:370][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.24-01.36.58:370][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.24-01.36.58:370][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.24-01.36.58:392][ 95]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.24-01.36.58:392][ 95]LogAudioMixer: Display: Name: Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.36.58:392][ 95]LogAudioMixer: Display: Is Default: Yes
+[2020.01.24-01.36.58:392][ 95]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.24-01.36.58:392][ 95]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.24-01.36.58:392][ 95]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.24-01.36.58:392][ 95]LogAudioMixer: Display: Channel Order:
+[2020.01.24-01.36.58:392][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.24-01.36.58:392][ 95]LogAudioMixer: Display: 1: FrontRight
+[2020.01.24-01.36.58:400][ 95]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.36.58:401][ 95]LogInit: FAudioDevice initialized.
+[2020.01.24-01.36.58:406][ 95]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.24-01.36.58:408][ 95]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.23-20.36.58
+[2020.01.24-01.36.58:408][ 95]LogWorld: Bringing up level for play took: 0.001204
+[2020.01.24-01.36.58:409][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.01.24-01.36.58:411][ 95]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.433
+[2020.01.24-01.36.58:411][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.37.12:373][769]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.37.12:373][769]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.37.12:373][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.37.12:374][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.37.12:374][769]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.24-01.37.12:374][769]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.37.12:374][769]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.37.12:374][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.37.12:380][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.37.12:381][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.37.12:385][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.37.12:413][769]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.37.12:415][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.37.12:418][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.01.24-01.37.12:478][774]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.24-01.37.30:328][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/BP_EnemyProjectile.BP_EnemyProjectile
+[2020.01.24-01.37.51:108][126]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Enemies/BP_RangedGrunt.BP_RangedGrunt
+[2020.01.24-01.38.23:321][628]LogSlate: Window 'Delete Variable' being destroyed
+[2020.01.24-01.38.33:222][733]BlueprintLog: New page: Compile BP_RangedGrunt
+[2020.01.24-01.38.33:398][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.01.24-01.38.33:848][776]LogSavePackage: Moving '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/BP_RangedGrunt9EAE768F4AFF725D127730BE30CBEB90.tmp' to '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Enemies/BP_RangedGrunt.uasset'
+[2020.01.24-01.38.33:860][776]AssetCheck: New page: Asset Save: BP_RangedGrunt
+[2020.01.24-01.38.33:860][776]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Enemies/BP_RangedGrunt.BP_RangedGrunt
+[2020.01.24-01.38.38:485][295]BlueprintLog: New page: Compile BP_RangedGrunt
+[2020.01.24-01.38.38:658][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.01.24-01.38.39:227][347]LogSavePackage: Moving '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/BP_RangedGrunt2613F4C848A251856A8D76AA7C91DEBF.tmp' to '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Enemies/BP_RangedGrunt.uasset'
+[2020.01.24-01.38.39:238][347]AssetCheck: New page: Asset Save: BP_RangedGrunt
+[2020.01.24-01.38.39:238][347]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Enemies/BP_RangedGrunt.BP_RangedGrunt
+[2020.01.24-01.39.37:700][ 54]BlueprintLog: New page: Compile BP_EnemyProjectile
+[2020.01.24-01.39.37:878][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.01.24-01.39.38:413][108]LogSavePackage: Moving '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/BP_EnemyProjectileD37CDCA6424F5549B3F01AA9B06AF64B.tmp' to '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/BP_EnemyProjectile.uasset'
+[2020.01.24-01.39.38:426][108]AssetCheck: New page: Asset Save: BP_EnemyProjectile
+[2020.01.24-01.39.38:426][108]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/BP_EnemyProjectile.BP_EnemyProjectile
+[2020.01.24-01.40.11:577][979]BlueprintLog: New page: Compile BP_EnemyProjectile
+[2020.01.24-01.40.11:748][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.01.24-01.40.12:471][ 52]LogSavePackage: Moving '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Saved/BP_EnemyProjectile3BC276E94376713B721057B042BD460C.tmp' to '../../../../../../Users/elija/OneDrive/Documents/GitHub/Project_Timewarp/Project_Timewarp/Content/TopDownBP/Blueprints/BP_EnemyProjectile.uasset'
+[2020.01.24-01.40.12:484][ 52]AssetCheck: New page: Asset Save: BP_EnemyProjectile
+[2020.01.24-01.40.12:484][ 52]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/BP_EnemyProjectile.BP_EnemyProjectile
+[2020.01.24-01.40.15:023][336]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.40.15:038][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.40.15:038][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.40.15:038][336]PIE: New page: PIE session: TopDownExampleMap (Jan 23, 2020, 3:40:15 PM)
+[2020.01.24-01.40.15:038][336]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.24-01.40.15:047][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009212s)
+[2020.01.24-01.40.15:048][336]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.24-01.40.15:048][336]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2020.01.24-01.40.15:048][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010269s)
+[2020.01.24-01.40.15:086][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.01.24-01.40.15:086][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.24-01.40.15:086][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.24-01.40.15:086][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.24-01.40.15:086][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.24-01.40.15:086][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.24-01.40.15:086][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.24-01.40.15:086][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.24-01.40.15:086][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.24-01.40.15:086][336]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.24-01.40.15:086][336]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.24-01.40.15:108][336]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.24-01.40.15:108][336]LogAudioMixer: Display: Name: Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.40.15:108][336]LogAudioMixer: Display: Is Default: Yes
+[2020.01.24-01.40.15:108][336]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.24-01.40.15:108][336]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.24-01.40.15:108][336]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.24-01.40.15:108][336]LogAudioMixer: Display: Channel Order:
+[2020.01.24-01.40.15:108][336]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.24-01.40.15:108][336]LogAudioMixer: Display: 1: FrontRight
+[2020.01.24-01.40.15:117][336]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2020.01.24-01.40.15:118][336]LogInit: FAudioDevice initialized.
+[2020.01.24-01.40.15:126][336]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.24-01.40.15:127][336]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.23-20.40.15
+[2020.01.24-01.40.15:128][336]LogWorld: Bringing up level for play took: 0.001268
+[2020.01.24-01.40.15:128][336]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.01.24-01.40.15:130][336]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.286
+[2020.01.24-01.40.15:130][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.40.41:119][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.40.41:119][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.40.41:119][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.40.41:119][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.40.41:119][452]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.24-01.40.41:119][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.40.41:119][452]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.40.41:120][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.40.41:125][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.40.41:125][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.24-01.40.41:129][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.40.41:163][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-01.40.41:165][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.40.41:168][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.01.24-01.40.41:223][457]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.01.24-01.40.49:667][432]LogUObjectArray: Warning: Empty slot
+[2020.01.24-01.40.49:677][432]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.24-01.40.49:716][432]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.038 s
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: 
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: Stack: 
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff816606cd9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff815e1693a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff815e2424f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff8330ebd31 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff81419977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff814151647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff837bcb144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff837dbdc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff837c160b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff837bf46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff837be8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff86baa4ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff86ba9242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff86baa7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff86ba8ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.24-01.40.49:716][432]LogOutputDevice: Error: [Callstack] 0x00007ff88ca15b6d USER32.dll!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: [Callstack] 0x00007ff88ca15562 USER32.dll!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: [Callstack] 0x00007ff86baa8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: [Callstack] 0x00007ff64d856db0 UE4Editor.exe!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: [Callstack] 0x00007ff64d86c3ec UE4Editor.exe!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: [Callstack] 0x00007ff64d86c4ca UE4Editor.exe!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: [Callstack] 0x00007ff64d87ceae UE4Editor.exe!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: [Callstack] 0x00007ff64d87fcbe UE4Editor.exe!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: [Callstack] 0x00007ff88da37bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: [Callstack] 0x00007ff88db8ced1 ntdll.dll!UnknownFunction []
+[2020.01.24-01.40.49:717][432]LogOutputDevice: Error: 
+[2020.01.24-01.40.49:724][432]LogStats:                SubmitErrorReport -  0.000 s

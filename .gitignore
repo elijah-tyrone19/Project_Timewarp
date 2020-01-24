@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Project_Timewarp/Saved/AutoScreenshot.png
+Project_Timewarp/Saved/Config/Windows/Editor.ini
+Project_Timewarp/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Project_Timewarp/Saved/Logs/Project_Timewarp.log
+Project_Timewarp/Saved/Config/Windows/EditorPerProjectUserSettings.ini
